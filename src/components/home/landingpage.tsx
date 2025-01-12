@@ -70,7 +70,7 @@ const LandingPage: React.FC = () => {
                             </Link>
                         </Button>
                         <Button size="lg" variant="outline" className="bg-transparent border-blue-500 text-blue-500 hover:bg-blue-500 hover:text-white">
-                            <Link href="https://privacy-policy-ai-email.vercel.app/" target="_blank" rel="noopener noreferrer" className="flex items-center">
+                            <Link href="https://privacy-policy-email-ai.vercel.app/" target="_blank" rel="noopener noreferrer" className="flex items-center">
                                 <FileText className="mr-2" /> Privacy Policy
                             </Link>
                         </Button>
